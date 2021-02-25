@@ -12,7 +12,7 @@ Mi primer repositorio con Git y GitHub
 
 ### Funciones en Python
 
-Para crear funciones en Python se utiliza la palabra reservada *def*
+>Para crear funciones en Python se utiliza la palabra reservada *def*
 
 ```python
 
