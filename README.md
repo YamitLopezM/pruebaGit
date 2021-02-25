@@ -3,6 +3,8 @@ Mi primer repositorio con Git y GitHub
 
 ## Python
 
+![Logo de Python](https://www.python.org/static/img/python-logo.png "Python logo")
+
 ### Variables en Python
 
 ### Tipos de datos en Python
@@ -24,6 +26,6 @@ def hola(nombre):
 
 
 
-#Ensayos
 
-![Logo de Wikipedia](https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg "Wikipedia logo")
+
+
