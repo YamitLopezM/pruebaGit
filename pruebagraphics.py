@@ -12,3 +12,5 @@ etiqueta2.pack(side=tk.LEFT)
 
 ventana.mainloop()
 
+#comentario para ver que pas en git
+
